@@ -1,3 +1,6 @@
+The Google Colab notebook is: LM_embedding_workshop_notebook_public.ipynb
+
+Other notes:
 1. The files with bert_* or gpt2_* prefixes contain, for each hidden unit (static layer + each hidden layer's residual stream embeddings), its mean and SD of activation across a large collection of sentences from COCA. It was used in:
    Denning, J. M., Guo, X., Snefjella, B., & Blank, I. A. (2026). Do Language Models Know Who Did What to Whom?. Open Mind, 10, 923-950.
 2. The file WangLikeGrammaticalityStimuli was created based (loosely) on the methods in the following paper:
