@@ -1,4 +1,8 @@
-**The Google Colab notebook is: LM_embedding_workshop_notebook_public.ipynb**
+## **Workshop: getting started with contextual embeddings**
+
+**Main file**: The Google Colab notebook is called LM_embedding_workshop_notebook_public.ipynb
+
+If you are unfamiliar with the architecture of Transformer Language Models, I highly recommend that you watch [this video](https://www.youtube.com/watch?v=cGMnNi4XGvc) before starting the notebook.
 
 The PDF file includes slides from a live workshop taught in August 2026. Most of the slides summarize information from the Notebook. These slides are not designed as standalone material without an accompanying lecture, so not everything in them will be clear. Still, some parts may provide further details on sections of the Notebook.
 
